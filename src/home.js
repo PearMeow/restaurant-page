@@ -1,4 +1,4 @@
-import foodPic from "./joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg";
+import foodPic from "./img/joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg";
 
 export default function goHome() {
     const pageContent = document.getElementById("content")

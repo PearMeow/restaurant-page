@@ -1,6 +1,7 @@
-import "./styles.css";
+import "./css/styles.css";
 import goHome from "./home.js"
 import { goMenu } from "./menu.js"
+import { default as goAbout } from "./about.js";
 
 console.log("henlo");
 
@@ -21,8 +22,7 @@ menuBtn.addEventListener("click", () => {
 
 aboutBtn.addEventListener("click", () => {
     content.replaceChildren();
-    // goAbout();
-    // then do something with the imported aboutBtn function
+    goAbout();
 })
 
 // Sets page to be on home by default

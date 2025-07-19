@@ -1,7 +1,7 @@
-import pizzaPic from "./ivan-torres-MQUqbmszGGM-unsplash.jpg";
-import kebabPic from "./sam-loyd-somKa7kuAmQ-unsplash.jpg";
-import milkPic from "./felipepelaquim-3nCRXsHdCNM-unsplash.jpg";
-import "./menu.css"
+import pizzaPic from "./img/ivan-torres-MQUqbmszGGM-unsplash.jpg";
+import kebabPic from "./img/sam-loyd-somKa7kuAmQ-unsplash.jpg";
+import milkPic from "./img/felipepelaquim-3nCRXsHdCNM-unsplash.jpg";
+import "./css/menu.css"
 
 export function goMenu() {
     const pageContent = document.getElementById("content")
