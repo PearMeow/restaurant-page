@@ -1,4 +1,4 @@
-<h1 align="center">restaurant-page</h1>
+<h1 align="center">Restaurant Page</h1>
 Restaurant page for TOP
 
 Features
