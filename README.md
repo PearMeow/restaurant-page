@@ -16,6 +16,9 @@ Visit the live version <a href="https://pearmeow.github.io/restaurant-page" rel=
 Credits
 -------
 <a href="https://unsplash.com/photos/cooked-food-on-green-ceramic-plate-somKa7kuAmQ" rel="noopener noreferrer">Kebab by Sam Loyd</a>
+<br>
 <a href="https://unsplash.com/photos/white-plastic-bottle-on-brown-wooden-table-3nCRXsHdCNM" rel="noopener noreferrer">Milk bottle by Felipe Pelaquim</a>
+<br>
 <a href="https://unsplash.com/photos/pizza-with-berries-MQUqbmszGGM" rel="noopener noreferrer">Pizza by Ivan Torres</a>
+<br>
 <a href="https://unsplash.com/photos/sandwich-with-boiled-egg-fdlZBWIP0aM" rel="noopener noreferrer">Egg sandwich by Joseph Gonzalez</a>
